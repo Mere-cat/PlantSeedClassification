@@ -1,4 +1,4 @@
-# **Computer Vision Assignment #2**
+# **Plant Seeding Classification**
 
 408125029 資工三 王禮芳
 
